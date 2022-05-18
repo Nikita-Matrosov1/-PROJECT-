@@ -1,0 +1,2 @@
+# -PROJECT-
+new project
